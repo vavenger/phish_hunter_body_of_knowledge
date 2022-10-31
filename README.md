@@ -20,17 +20,17 @@ Phishing Hunterは、急増しているフィッシング詐欺等の社会問�
 
 ## 章構成
 
-1. [第1章 フィッシング詐欺の現状](../chp01_phish_overview.md)
+1. [第1章 フィッシング詐欺の現状](chp01_phish_overview.md)
 
-2. [第2章 フィッシング詐欺サイトの取り扱い](../chp02_phish_hunting_ethics.md)
+2. [第2章 フィッシング詐欺サイトの取り扱い](chp02_phish_hunting_ethics.md)
 
-3. [第3章 フィッシング詐欺サイトの構造](../chp03_phish_site_architecture.md)
+3. [第3章 フィッシング詐欺サイトの構造](chp03_phish_site_architecture.md)
 
-4. [第4章 フィッシングハンターを取り巻くガバナンス](../chp04_phish_hunting_governance.md)
+4. [第4章 フィッシングハンターを取り巻くガバナンス](chp04_phish_hunting_governance.md)
 
-5. [第5章 フィッシングハンター自身を守るOPSEC](../chp05_phish_hunter_opsec.md)
+5. [第5章 フィッシングハンター自身を守るOPSEC](chp05_phish_hunter_opsec.md)
 
-6. [第6章 フィッシング対策におけるアウェアネス](../chp06_anti-phish_awareness.md)
+6. [第6章 フィッシング対策におけるアウェアネス](chp06_anti-phish_awareness.md)
 
 ## 執筆者
 
